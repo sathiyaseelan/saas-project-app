@@ -15,7 +15,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'therubyracer', platforms: :ruby
 gem 'devise'
 gem 'milia'
-
+gem 'bootstrap-datepicker-rails'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
 # Use jquery as the JavaScript library
